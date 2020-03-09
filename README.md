@@ -1,2 +1,2 @@
 # BCSC
-Toy Contract of Demo
+Toy Financial Lending Contract for class demo
